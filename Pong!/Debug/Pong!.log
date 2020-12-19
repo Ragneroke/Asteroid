@@ -1,0 +1,17 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Pong!.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Asteroid.cpp
+  Ball.cpp
+  Bar.cpp
+  Bullet.cpp
+  GameObject.cpp
+  Power.cpp
+  Rects.cpp
+  Button.cpp
+  Game.cpp
+  GameState.cpp
+  MenuState.cpp
+  main.cpp
+  Ship.cpp
+  State.cpp
+  Generating Code...
+  Pong!.vcxproj -> C:\Users\gliu1\source\repos\Pong!\Debug\Asteroid.exe

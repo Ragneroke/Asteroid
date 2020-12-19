@@ -1,0 +1,2 @@
+C:\Users\gliu1\source\repos\Pong!\Debug\Asteroid.exe
+C:\Users\gliu1\source\repos\Pong!\Debug\Asteroid.pdb
